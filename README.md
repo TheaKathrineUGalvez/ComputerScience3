@@ -1,3 +1,3 @@
 - This is a sample file for my first github project in CS3.
-- Please close this repository to your repo
-- 
+- Please close this repository to your repo.
+- https://github.com/TheaKathrineUGalvez/ComputerScience3
